@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GoofySoundboard.Los"
+             NavigationPage.HasNavigationBar="false">
+    <ContentPage.Background>
+        <LinearGradientBrush>
+            <GradientStop Color="Blue"
+                          Offset="0.1" />
+            <GradientStop Color="Purple"
+                          Offset="0.8" />
+        </LinearGradientBrush>
+    </ContentPage.Background>
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <Button
+                AbsoluteLayout.LayoutBounds="5, 100"
+                BorderColor="White"
+                BorderRadius="200"
+                BorderWidth="5"
+                BackgroundColor="White"
+                TextColor="Blue"
+                WidthRequest="400"
+                HeightRequest="400"
+                FontSize="50"
+                FontAttributes="Bold"
+                Opacity="0.7"
+                Text="Losuj"
+                Clicked="Losoj"/>
+            <Button 
+                AbsoluteLayout.LayoutBounds="100, 600"
+                BorderColor="Aqua"
+                BorderRadius="10"
+                BorderWidth="5"
+                BackgroundColor="Aquamarine"
+                TextColor="Blue"
+                WidthRequest="200"
+                HeightRequest="60"
+                FontSize="17"
+                FontAttributes="Bold"
+                Opacity="0.7"
+                Text="Wróć" 
+                Clicked="glowna"/>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>
