@@ -25,14 +25,14 @@ namespace GoofySoundboard
             Navigation.PushAsync(new Los());
         }
 
+        int a = 0;
         public void Cos(Object Sender, EventArgs e)
         {
-            var rand = new Random();
-            var a = rand.Next(1, 10);
-
-            if(a == 1)
+            a++;
+            if(a == 10)
             {
                 Navigation.PushAsync(new cos());
+                a= 0;
             }
         }
 

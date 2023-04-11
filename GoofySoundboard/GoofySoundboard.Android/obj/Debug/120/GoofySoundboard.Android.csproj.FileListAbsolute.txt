@@ -641,3 +641,4 @@ C:\Users\User\source\repos\GoofySoundboard\GoofySoundboard\GoofySoundboard.Andro
 C:\Users\User\source\repos\GoofySoundboard\GoofySoundboard\GoofySoundboard.Android\obj\Debug\120\res\mipmap-xxhdpi\icon_launcher_background.png
 C:\Users\User\source\repos\GoofySoundboard\GoofySoundboard\GoofySoundboard.Android\obj\Debug\120\res\mipmap-xxxhdpi\icon_launcher.png
 C:\Users\User\source\repos\GoofySoundboard\GoofySoundboard\GoofySoundboard.Android\obj\Debug\120\res\mipmap-xxxhdpi\icon_launcher_background.png
+C:\Users\User\source\repos\GoofySoundboard\GoofySoundboard\GoofySoundboard.Android\obj\Debug\120\res\drawable\c.gif
