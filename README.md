@@ -10,5 +10,5 @@ Do odtwarzania dźwięków używa wtyczki SimpleAudioPlayer.<br>
 ## Losowanie<br>
 <img src = "los.PNG" height = "450"><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-file.name<br>
+image.name<br>
 <img src = "00111111 00110001 00110000.PNG" height = "50"><br>
